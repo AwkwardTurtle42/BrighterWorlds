@@ -1,3 +1,14 @@
+## Index
+- [Introduction](#introduction)
+- [Core Rules](#core-rules)
+- [Magic](#magic)
+- [Combat](#combat)
+- [Healing and Recovery](#healing-and-recovery)
+- [Items and Inventory](#items)
+- [Character Creation](#character-creation)
+- [Classes](#classes)
+
+
 # Introduction
 
 Brighter Worlds is a fantasy tabletop RPG for going adventuring, crawling through dungeons, and playing through all of the OSR modules I’ve acquired over the years but haven’t gotten a chance to run yet.
